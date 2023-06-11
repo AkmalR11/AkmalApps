@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">AkmalApps</string>
+    <string name="walktrhough1">Aplikasi Ini Digunakan Untuk Melihat Profil Pembuat Aplikasi, Dalam Aplikasi Ini Terdapat Berbagai Informasi Mengenai Pembuat Aplikasi Seperti Nama, Hobby, dan Hal Yang Menarik Bagi Pembuat Apps.</string>
+    <string name="infoApps"><u>Tentang Aplikasi</u></string>
+    <string name="penggunaanApps">Penggunaan Apps</string>
+    <string name="tutorPemakaian">User Dapat Masuk Ke berbagai Menu Melalui Bottom Navigation Bar Yang Terdapat Pada Bagian Bawah Setiap Halaman.</string>
+    <string name="penjelasanButtonNav">Secara Berurutan, Tombol pada Navbar Yaitu Home, Daily Activity, Gallery, Music, Profile.</string>
+    <string name="selamatMulai">Selamat Menggunakan :)</string>
+    <string name="nama">Akmal Rizqulloh</string>
+    <string name="nim">10119230</string>
+    <string name="deskripsi1">Nama Saya Akmal Rizqulloh, Saya seorang mahasiswa semester 8 jurusan Teknik Informatika di Universitas Komputer Indonesia.</string>
+    <string name="deskripsi2">Saya memiliki ketertarikan terhadap bidang UI / UX sehingga saya menghabiskan cukup banyak waktu untuk mempelajari dasar - dasar membuat desain interface yang baik.</string>
+    <string name="deskripsi3">Aplikasi ini merupakan salah satu bentuk implementasi ilmu yang saya dapat selama mempelajari mata kuliah Aplikasi Komputasi Bergerak.</string>
+    <string name="gaming">GAMING</string>
+    <string name="coding">CODING</string>
+    <string name="photography">PHOTOGRAPHY</string>
+    <string name="interest">HOBBIES &amp; INTEREST</string>
+    <string name="kontak">CONTACT ME!</string>
+    <string name="unameInsta">akmalriz_15</string>
+    <string name="noWa">081312418756</string>
+    <string name="facebook">Akmal</string>
+    <string name="twitter">ArLyno_15</string>
+    <string name="makesMikes">MAKES &amp; MIKES</string>
+    <string name="sate">SATE</string>
+    <string name="kebab">KEBAB</string>
+    <string name="literature"><u>リテラチュア - Ueda Reina</u></string>
+
+</resources>
